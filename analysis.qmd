@@ -1,0 +1,6 @@
+---
+title: "Analyzing the billboard 100"
+format: html
+---
+
+libray(tidyverse)
